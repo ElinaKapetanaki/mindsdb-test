@@ -16,11 +16,6 @@
 ![test_3](images/SelectID.JPG)
 
 -----
-#### Select an annotation by ID:
-
-![test_3](images/SelectID.JPG)
-
------
 #### Select annotations by parent item ID:
 
 ![test_4](images/SelectParent.JPG)
